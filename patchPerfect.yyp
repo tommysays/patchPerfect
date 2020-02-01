@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0339ef9f-110d-4392-b336-bc2538cb03fc",
+            "Value": {
+                "id": "f38d490a-de99-447d-8e1a-d1913718e987",
+                "resourcePath": "sprites\\sprDoor\\sprDoor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05ab9211-b03f-47e1-8008-ef285cd77214",
             "Value": {
                 "id": "55650b24-6bda-4124-8238-346d024055c9",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "27304a99-77ed-40be-84ab-b83252fe44bc",
+            "Value": {
+                "id": "0d6a811b-d0e5-4468-941a-8e7740e2ec68",
+                "resourcePath": "scripts\\tutorialBubbleMaker\\tutorialBubbleMaker.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "347f429e-0bca-4516-a7f6-5a97763bed9f",
             "Value": {
                 "id": "3e1aa3da-6929-432a-8f0f-f68bee2f9d5f",
@@ -127,6 +143,14 @@
             }
         },
         {
+            "Key": "4a788653-4f59-4359-83fd-f13a6b403e5f",
+            "Value": {
+                "id": "ef267bca-4254-4775-ad46-611a3fc1c722",
+                "resourcePath": "views\\4a788653-4f59-4359-83fd-f13a6b403e5f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4f486c36-c2fe-4064-9e4f-11c9ad469530",
             "Value": {
                 "id": "6844ab4d-2850-4c3a-ac20-3d8a7547d262",
@@ -156,6 +180,14 @@
                 "id": "92ec99cd-0d84-4416-ad4d-a75ca41e1139",
                 "resourcePath": "views\\599ff057-4f38-4490-b198-d2be282c2e6b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a58f35e-5ec6-4af1-8c17-4087af3dfdf4",
+            "Value": {
+                "id": "737a0dbd-43e9-4da7-a446-a9357e0fe7b8",
+                "resourcePath": "objects\\objDoor\\objDoor.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -235,6 +267,14 @@
             "Value": {
                 "id": "90714d54-63d9-4183-a82f-c5f1df10bfc7",
                 "resourcePath": "objects\\uiBubbleA\\uiBubbleA.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "92da5528-dc42-454b-ad34-fbd365a4e81e",
+            "Value": {
+                "id": "110505f7-6991-4643-93f8-e364ce40cae0",
+                "resourcePath": "objects\\objGameRunner\\objGameRunner.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -364,6 +404,14 @@
                 "id": "ca33ea9d-1fda-40b8-a419-5372d4fc42b5",
                 "resourcePath": "objects\\objBubbleAnimated\\objBubbleAnimated.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c76a18ca-636a-4ea8-897c-c56c178c726b",
+            "Value": {
+                "id": "8ac5ba84-0470-4e9a-aef1-11dc1e4e0278",
+                "resourcePath": "rooms\\roomTutorial2\\roomTutorial2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

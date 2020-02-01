@@ -26,8 +26,17 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": [
+        {
+            "id": "8989426e-d019-4d38-aa20-352e4a384863",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "92da5528-dc42-454b-ad34-fbd365a4e81e",
+            "propertyId": "2c399d2a-a481-452c-96e8-8daeca670953",
+            "value": "roomTutorial2"
+        }
+    ],
+    "parentObjectId": "92da5528-dc42-454b-ad34-fbd365a4e81e",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

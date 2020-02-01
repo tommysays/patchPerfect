@@ -34,6 +34,16 @@ if (pumpObj != noone) {
 	return;
 }
 
+// Door interaction.
+if (gameRunnerObj.winConditionMet) {
+	doorObj = instance_position(x + 16, y + 16, objDoor);
+	if (doorObj != noone) {
+		isInteracting = true;
+		alarm[2] = room_speed * 0.1;
+		return;
+	}
+}
+
 
 // Throw only if other interactions are not available AND you have patches left.
 if (!isThrowing) {// && patches > 0) {
