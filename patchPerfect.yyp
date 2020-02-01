@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0643fcb0-a72d-493d-bdea-ad2a2fb5a9ac",
+            "Value": {
+                "id": "2609175e-e732-459d-9a41-20c456025485",
+                "resourcePath": "objects\\objTutorial1Runner\\objTutorial1Runner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0b0d2d34-a654-4821-8eb9-ffddbd633886",
             "Value": {
                 "id": "ac1a21ca-e21c-406b-aaa1-3a685ab94cc3",
@@ -303,6 +311,14 @@
             }
         },
         {
+            "Key": "b8bd3ded-6572-41a7-a9b0-1e9f1ece9dd5",
+            "Value": {
+                "id": "0054f06a-6b1e-47c1-b0e2-7a29c32e587d",
+                "resourcePath": "sprites\\sprBubbleAnimated\\sprBubbleAnimated.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b9167ef3-4076-4a6c-a28c-02a0218c058f",
             "Value": {
                 "id": "eb63401a-bda0-4ce0-9144-57d18d3f456a",
@@ -343,6 +359,14 @@
             }
         },
         {
+            "Key": "c6667c99-0995-46bb-85c2-1b319af1dd65",
+            "Value": {
+                "id": "ca33ea9d-1fda-40b8-a419-5372d4fc42b5",
+                "resourcePath": "objects\\objBubbleAnimated\\objBubbleAnimated.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c9e4a72c-a3b7-4de0-96bc-854309b25cf5",
             "Value": {
                 "id": "91ab9b9c-b49c-4d2e-8976-35a156b9f5a8",
@@ -356,6 +380,14 @@
                 "id": "13425401-33d9-492a-956a-e6153f1a46e6",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd0804d4-a749-490f-a143-e1ac15095f71",
+            "Value": {
+                "id": "8de88465-ec6b-4cc3-b35d-dbe1357fbd5e",
+                "resourcePath": "rooms\\roomTutorial1\\roomTutorial1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

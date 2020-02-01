@@ -42,7 +42,20 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "f629fdce-86f2-4bae-99ef-f0bf94c4b5c6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "bubble",
+            "varType": 5
+        }
     ],
     "solid": false,
     "spriteId": "347f429e-0bca-4516-a7f6-5a97763bed9f",
