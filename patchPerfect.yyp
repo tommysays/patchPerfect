@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "873b0d40-2ff0-4aa1-a6de-bffcb5f57029",
+            "Value": {
+                "id": "48530b08-c201-4c5a-bbbd-47559400e40f",
+                "resourcePath": "objects\\objTutorial2Runner\\objTutorial2Runner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9252c2e1-614f-4d0f-991c-611b38efb2d8",
             "Value": {
                 "id": "90714d54-63d9-4183-a82f-c5f1df10bfc7",
@@ -496,7 +504,8 @@
         }
     ],
     "script_order": [
-        "c0a872ab-862c-489d-abcc-5900889292bf"
+        "c0a872ab-862c-489d-abcc-5900889292bf",
+        "27304a99-77ed-40be-84ab-b83252fe44bc"
     ],
     "tutorial": ""
 }
