@@ -1,0 +1,2 @@
+highlightDoor();
+winConditionMet = true;

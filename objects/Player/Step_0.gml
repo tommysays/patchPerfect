@@ -44,7 +44,6 @@ if (isThrowing) {
 			crosshairObj = instance_create_layer(x + 16, y, "layerPatches", objCrosshair);
 			crosshairObj.image_blend = playerColor;
 			crosshairObj.vspeed = -2;
-			show_debug_message("Spawned crosshair");
 		}
 	}
 }

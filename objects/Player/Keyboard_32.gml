@@ -12,7 +12,9 @@ if (patchBucket != noone) {
 	}
 	patches = 3;
 	bubble = instance_find(objBubble, 0);
-	bubble.visible = false;
+	if (bubble != noone) {
+		bubble.visible = false;
+	}
 	isInteracting = true;
 	alarm[1] = room_speed * 0.5;
 	return;
@@ -46,6 +48,16 @@ if (gameRunnerObj.winConditionMet) {
 	}
 }
 
+// Portal interaction.
+
+portalObj = instance_position(x + 16, y + 16, objPortal);
+if (portalObj != noone) {
+	isInteracting = true;
+	alarm[1] = room_speed * 0.2;
+	x = portalObj.targetX;
+	y = portalObj.targetY;
+	return;
+}
 
 // Throw only if other interactions are not available AND you have patches left.
 if (!isThrowing && patches > 0) {

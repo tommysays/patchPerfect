@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Initialize and link up to game runner, water level obj.
 // You can write your code in this editor
 fontScript();
 display_set_gui_size(640, 360);

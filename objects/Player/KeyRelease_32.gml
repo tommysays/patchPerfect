@@ -13,7 +13,9 @@ if (isInteracting) {
 		patches--;
 		if (patches == 0 && !gameRunnerObj.winConditionMet) {
 			bubble = instance_find(objBubble, 0);
-			bubble.visible = true;
+			if (bubble != noone) {
+				bubble.visible = true;
+			}
 		}
 	}
 	if (crosshairObj != noone) {

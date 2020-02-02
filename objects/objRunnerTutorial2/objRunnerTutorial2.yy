@@ -33,7 +33,7 @@
             "mvc": "1.0",
             "objectId": "92da5528-dc42-454b-ad34-fbd365a4e81e",
             "propertyId": "2c399d2a-a481-452c-96e8-8daeca670953",
-            "value": "room1"
+            "value": "roomLevel1"
         }
     ],
     "parentObjectId": "92da5528-dc42-454b-ad34-fbd365a4e81e",

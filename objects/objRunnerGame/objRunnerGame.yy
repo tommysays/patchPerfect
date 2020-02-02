@@ -107,6 +107,48 @@
             "value": "6",
             "varName": "shakeMagnitude",
             "varType": 0
+        },
+        {
+            "id": "ab50af7d-5cf8-4a26-a11a-b6e816165446",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "waveHoleCounter",
+            "varType": 1
+        },
+        {
+            "id": "dcc47e33-e99b-4536-8c85-392bef97afde",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "waveCounter",
+            "varType": 1
+        },
+        {
+            "id": "f84583e3-d510-4a9d-b278-d06eca1f6d01",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "waveInterval",
+            "varType": 0
         }
     ],
     "solid": false,
