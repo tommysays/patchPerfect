@@ -25,16 +25,6 @@
             "m_owner": "7375d61b-5a27-473c-b705-92d83accbe71"
         },
         {
-            "id": "fe3dc3ab-eff5-43d0-8c7d-473afb5ec4c7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "7375d61b-5a27-473c-b705-92d83accbe71"
-        },
-        {
             "id": "614dc64d-d8e3-4f29-b4f3-5a28a54e4488",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -152,7 +142,7 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "throwStrength",
-            "varType": 1
+            "varType": 0
         },
         {
             "id": "fa498e8f-8233-4f1a-acad-750afbd528ad",
@@ -195,6 +185,34 @@
             "value": "0.005",
             "varName": "waterLevelHindranceMultiplier",
             "varType": 0
+        },
+        {
+            "id": "52ff7b83-41ae-41ae-9be9-d96ca7f3babb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "crosshairObj",
+            "varType": 5
+        },
+        {
+            "id": "ab6c0388-dcd9-40f2-ba3d-c5c10290c211",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "$00FF9900",
+            "varName": "playerColor",
+            "varType": 7
         }
     ],
     "solid": false,

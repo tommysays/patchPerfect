@@ -78,7 +78,7 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "throwStrength",
-            "varType": 1
+            "varType": 0
         }
     ],
     "solid": false,

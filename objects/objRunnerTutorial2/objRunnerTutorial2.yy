@@ -5,16 +5,6 @@
     "name": "objRunnerTutorial2",
     "eventList": [
         {
-            "id": "be348d24-2c1c-4c86-a23e-490ae7ef59ce",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 32,
-            "eventtype": 5,
-            "m_owner": "873b0d40-2ff0-4aa1-a6de-bffcb5f57029"
-        },
-        {
             "id": "4fadd409-f97f-4224-a903-172774c420ec",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "873b0d40-2ff0-4aa1-a6de-bffcb5f57029"
+        },
+        {
+            "id": "aa3cc11e-0d37-4689-84ab-8724ea6fbc23",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
             "m_owner": "873b0d40-2ff0-4aa1-a6de-bffcb5f57029"
         }
     ],

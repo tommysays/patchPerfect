@@ -7,4 +7,6 @@ if (waterLevelObj.waterLevel <= 0) {
 		instance_destroy(bubble);
 	}
 	highlightDoor();
+} else {
+	alarm[0] = 0.25 * room_speed;
 }
