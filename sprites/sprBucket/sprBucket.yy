@@ -2,38 +2,38 @@
     "id": "9ac1d7e5-fa0a-4b76-abdc-fc58dc64a3fb",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite4",
+    "name": "sprBucket",
     "For3D": false,
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 31,
     "bbox_left": 0,
     "bbox_right": 63,
-    "bbox_top": 1,
+    "bbox_top": 2,
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "7370e940-cb7c-4e30-b0f3-6af86e890244",
+            "id": "19fead24-0e2d-4e93-aac3-ee15f5c9d919",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "9ac1d7e5-fa0a-4b76-abdc-fc58dc64a3fb",
             "compositeImage": {
-                "id": "9955159d-93cc-4b9d-9e16-2d87f7fba12b",
+                "id": "2e9125a9-a8e9-48f5-b173-ef1b71865662",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "7370e940-cb7c-4e30-b0f3-6af86e890244",
+                "FrameId": "19fead24-0e2d-4e93-aac3-ee15f5c9d919",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "4367000e-96aa-45e9-be04-4ca9c5960360",
+                    "id": "f8dd82c6-baaa-403a-8612-f0ab8e905bfd",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "7370e940-cb7c-4e30-b0f3-6af86e890244",
-                    "LayerId": "0412e6f1-8c27-499d-afb4-5c719c2e9df2"
+                    "FrameId": "19fead24-0e2d-4e93-aac3-ee15f5c9d919",
+                    "LayerId": "8957f356-b64d-48bd-b652-794af99ca284"
                 }
             ]
         }
@@ -43,7 +43,7 @@
     "height": 32,
     "layers": [
         {
-            "id": "0412e6f1-8c27-499d-afb4-5c719c2e9df2",
+            "id": "8957f356-b64d-48bd-b652-794af99ca284",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "9ac1d7e5-fa0a-4b76-abdc-fc58dc64a3fb",
