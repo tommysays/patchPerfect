@@ -11,7 +11,7 @@ if (patchBucket != noone) {
 		return;
 	}
 	patches = 3;
-	bubble = instance_find(uiBubbleA, 0);
+	bubble = instance_find(objBubble, 0);
 	bubble.visible = false;
 	isInteracting = true;
 	alarm[1] = room_speed * 0.5;

@@ -2,7 +2,7 @@
     "id": "9252c2e1-614f-4d0f-991c-611b38efb2d8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "uiBubbleA",
+    "name": "objBubble",
     "eventList": [
         {
             "id": "baf45b2d-11f9-4da6-83a9-69e417087938",

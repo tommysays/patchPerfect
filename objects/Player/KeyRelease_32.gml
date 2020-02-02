@@ -9,8 +9,8 @@ if (isInteracting) {
 		patch.throwStrength = throwStrength;
 		show_debug_message("Threw patch with strength " + string(throwStrength));
 		patches--;
-		if (patches == 0) {
-			bubble = instance_find(uiBubbleA, 0);
+		if (patches == 0 && !gameRunnerObj.winConditionMet) {
+			bubble = instance_find(objBubble, 0);
 			bubble.visible = true;
 		}
 	}

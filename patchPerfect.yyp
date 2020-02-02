@@ -282,7 +282,7 @@
             "Key": "9252c2e1-614f-4d0f-991c-611b38efb2d8",
             "Value": {
                 "id": "90714d54-63d9-4183-a82f-c5f1df10bfc7",
-                "resourcePath": "objects\\uiBubbleA\\uiBubbleA.yy",
+                "resourcePath": "objects\\objBubble\\objBubble.yy",
                 "resourceType": "GMObject"
             }
         },
