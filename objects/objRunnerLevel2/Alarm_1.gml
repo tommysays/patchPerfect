@@ -7,4 +7,6 @@ waveCounter--;
 
 if (waveCounter > 0) {
 	alarm[1] = room_speed * waveInterval;
+} else {
+	alarm[2] = room_speed * 0.1;
 }

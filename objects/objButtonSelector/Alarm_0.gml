@@ -1,0 +1,3 @@
+/// @description Debounce.
+
+isDebouncing = false;

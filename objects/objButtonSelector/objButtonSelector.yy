@@ -1,0 +1,131 @@
+{
+    "id": "9ab2a4dd-aba1-49e6-81e6-123a046a511f",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "objButtonSelector",
+    "eventList": [
+        {
+            "id": "2121a63c-24a9-47f6-a900-b7dbb233665d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 5,
+            "m_owner": "9ab2a4dd-aba1-49e6-81e6-123a046a511f"
+        },
+        {
+            "id": "614dcbfe-d45d-40bf-a3a8-6842a1b3b67b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9ab2a4dd-aba1-49e6-81e6-123a046a511f"
+        },
+        {
+            "id": "6754246f-a170-42c1-b4e1-f76999391b52",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "9ab2a4dd-aba1-49e6-81e6-123a046a511f"
+        },
+        {
+            "id": "8d4d557d-b9d1-4d6e-818e-fdf1a4727f39",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 37,
+            "eventtype": 5,
+            "m_owner": "9ab2a4dd-aba1-49e6-81e6-123a046a511f"
+        },
+        {
+            "id": "9de23a02-cf20-4fbc-90c8-9204fa7509bd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 39,
+            "eventtype": 5,
+            "m_owner": "9ab2a4dd-aba1-49e6-81e6-123a046a511f"
+        },
+        {
+            "id": "f8bf648f-4ff1-4abf-bd56-ce9408b8c1de",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "9ab2a4dd-aba1-49e6-81e6-123a046a511f"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "1fd8d989-fa12-44f1-83e4-507c35551502",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "isDebouncing",
+            "varType": 3
+        },
+        {
+            "id": "4b529f28-065c-4b09-9d13-822f1e0bb49d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "buttonIndex",
+            "varType": 1
+        },
+        {
+            "id": "b2992cb6-2b83-42d9-b741-ac68bde9e541",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "$FF0000FF",
+            "varName": "highlightColor",
+            "varType": 7
+        }
+    ],
+    "solid": false,
+    "spriteId": "e4d1b122-bbdc-4a5a-97df-1897165300b1",
+    "visible": true
+}

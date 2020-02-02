@@ -36,7 +36,16 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "9946a63a-28d7-4a38-ab73-7783ebda7e1c",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "92da5528-dc42-454b-ad34-fbd365a4e81e",
+            "propertyId": "2c399d2a-a481-452c-96e8-8daeca670953",
+            "value": "roomMenu"
+        }
+    ],
     "parentObjectId": "92da5528-dc42-454b-ad34-fbd365a4e81e",
     "persistent": false,
     "physicsAngularDamping": 0.1,
