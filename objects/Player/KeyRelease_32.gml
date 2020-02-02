@@ -9,6 +9,7 @@ if (isInteracting) {
 		patch.throwStrength = throwStrength;
 		patch.image_blend = playerColor;
 		show_debug_message("Threw patch with strength " + string(throwStrength));
+		audio_play_sound(sndSlideUp, 0, 0);
 		patches--;
 		if (patches == 0 && !gameRunnerObj.winConditionMet) {
 			bubble = instance_find(objBubble, 0);

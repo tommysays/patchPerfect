@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "5843507d-dafc-40a4-941d-d9b07f8b4996",
+            "Value": {
+                "id": "727cd11f-1c57-43a5-81cd-8286f3b45efa",
+                "resourcePath": "sounds\\sndSlideUp\\sndSlideUp.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "599ff057-4f38-4490-b198-d2be282c2e6b",
             "Value": {
                 "id": "92ec99cd-0d84-4416-ad4d-a75ca41e1139",
@@ -244,6 +252,14 @@
                 "id": "31b9b1b5-5382-4d56-b6a3-c4ae21350590",
                 "resourcePath": "fonts\\fontCourier\\fontCourier.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "6fe87b4e-f58b-40f9-ba61-6bc893206c05",
+            "Value": {
+                "id": "77cff70c-c60e-4d37-899d-e548ed7b7f38",
+                "resourcePath": "objects\\objMusicPlayer\\objMusicPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -431,6 +447,14 @@
             }
         },
         {
+            "Key": "c06874cf-8f35-4b74-b89e-b40bdf36983d",
+            "Value": {
+                "id": "f86efd82-9ef8-40fc-b248-55f1d64a1b0c",
+                "resourcePath": "sounds\\sndCarnival\\sndCarnival.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c0a872ab-862c-489d-abcc-5900889292bf",
             "Value": {
                 "id": "ccee3168-8ab7-406d-81ca-960b95f1c806",
@@ -444,6 +468,14 @@
                 "id": "a64f2d70-cb51-4119-b44a-d5a46d55eb9d",
                 "resourcePath": "sprites\\sprPatch\\sprPatch.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c277238d-9add-497e-bb05-f87a0d25936a",
+            "Value": {
+                "id": "066aafc7-46a9-4ffa-a982-4e9c02a12e16",
+                "resourcePath": "sounds\\sndPerc\\sndPerc.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -524,6 +556,14 @@
                 "id": "37430151-3e21-43e4-a850-74f958244975",
                 "resourcePath": "objects\\objRunnerRoom1\\objRunnerRoom1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e4b49861-ba63-4e1f-86f5-320591d4b37d",
+            "Value": {
+                "id": "daba8c36-320a-4239-b00a-2df8963a6f43",
+                "resourcePath": "sounds\\sndOk\\sndOk.yy",
+                "resourceType": "GMSound"
             }
         },
         {

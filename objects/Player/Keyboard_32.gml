@@ -32,6 +32,7 @@ if (pumpObj != noone && !pumpObj.isPumping) {
 	pumpObj.isPumping = true;
 	pumpObj.alarm[0] = (13/15) * room_speed;
 	alarm[1] = room_speed * 1;
+	audio_play_sound(sndPerc, 0, 0);
 	return;
 }
 
