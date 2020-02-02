@@ -2,7 +2,7 @@
     "id": "92da5528-dc42-454b-ad34-fbd365a4e81e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objGameRunner",
+    "name": "objRunnerGame",
     "eventList": [
         
     ],
@@ -47,7 +47,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "noone",
             "varName": "nextRoom",
             "varType": 5
         }

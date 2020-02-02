@@ -2,7 +2,7 @@
     "id": "0643fcb0-a72d-493d-bdea-ad2a2fb5a9ac",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objTutorial1Runner",
+    "name": "objRunnerTutorial1",
     "eventList": [
         {
             "id": "c008217c-16ee-41ad-921b-29e61f00a20c",
@@ -22,6 +22,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 32,
             "eventtype": 5,
+            "m_owner": "0643fcb0-a72d-493d-bdea-ad2a2fb5a9ac"
+        },
+        {
+            "id": "4d143856-9f61-4ff6-9d2d-6ede6ef23ca1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
             "m_owner": "0643fcb0-a72d-493d-bdea-ad2a2fb5a9ac"
         }
     ],

@@ -7,7 +7,6 @@ if (isFlying && throwStrength <= 0) {
 	// todo Detect if patch reached hole
 	hole = instance_place(x, y, objHole);
 	if (hole != noone) {
-		show_debug_message("Patch hit a hole.");
 		with (hole) {
 			instance_destroy();
 		}

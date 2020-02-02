@@ -2,7 +2,7 @@
     "id": "873b0d40-2ff0-4aa1-a6de-bffcb5f57029",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objTutorial2Runner",
+    "name": "objRunnerTutorial2",
     "eventList": [
         {
             "id": "be348d24-2c1c-4c86-a23e-490ae7ef59ce",

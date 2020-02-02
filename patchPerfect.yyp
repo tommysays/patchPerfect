@@ -50,7 +50,7 @@
             "Key": "0643fcb0-a72d-493d-bdea-ad2a2fb5a9ac",
             "Value": {
                 "id": "2609175e-e732-459d-9a41-20c456025485",
-                "resourcePath": "objects\\objTutorial1Runner\\objTutorial1Runner.yy",
+                "resourcePath": "objects\\objRunnerTutorial1\\objRunnerTutorial1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -68,6 +68,14 @@
                 "id": "0643c530-7189-407a-a824-a8fa28e073e9",
                 "resourcePath": "views\\0fa3f6ce-a77a-42c4-b6c8-803757baadd3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0febc7b1-834c-4800-8039-0d5a4b938e1d",
+            "Value": {
+                "id": "d4166ee9-209a-4465-a1f1-ecaffedd422d",
+                "resourcePath": "scripts\\highlightDoor\\highlightDoor.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -266,7 +274,7 @@
             "Key": "873b0d40-2ff0-4aa1-a6de-bffcb5f57029",
             "Value": {
                 "id": "48530b08-c201-4c5a-bbbd-47559400e40f",
-                "resourcePath": "objects\\objTutorial2Runner\\objTutorial2Runner.yy",
+                "resourcePath": "objects\\objRunnerTutorial2\\objRunnerTutorial2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -282,7 +290,7 @@
             "Key": "92da5528-dc42-454b-ad34-fbd365a4e81e",
             "Value": {
                 "id": "110505f7-6991-4643-93f8-e364ce40cae0",
-                "resourcePath": "objects\\objGameRunner\\objGameRunner.yy",
+                "resourcePath": "objects\\objRunnerGame\\objRunnerGame.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -482,7 +490,7 @@
             "Key": "e29222f8-e385-4c3a-8cee-09af8a67d0a9",
             "Value": {
                 "id": "37430151-3e21-43e4-a850-74f958244975",
-                "resourcePath": "objects\\objHoleMaker\\objHoleMaker.yy",
+                "resourcePath": "objects\\objRunnerRoom1\\objRunnerRoom1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -505,7 +513,8 @@
     ],
     "script_order": [
         "c0a872ab-862c-489d-abcc-5900889292bf",
-        "27304a99-77ed-40be-84ab-b83252fe44bc"
+        "27304a99-77ed-40be-84ab-b83252fe44bc",
+        "0febc7b1-834c-4800-8039-0d5a4b938e1d"
     ],
     "tutorial": ""
 }

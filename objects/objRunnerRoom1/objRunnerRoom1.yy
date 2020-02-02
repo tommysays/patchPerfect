@@ -2,7 +2,7 @@
     "id": "e29222f8-e385-4c3a-8cee-09af8a67d0a9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objHoleMaker",
+    "name": "objRunnerRoom1",
     "eventList": [
         {
             "id": "b808217b-f7f8-45e0-b145-ac7ac3e8eacc",
