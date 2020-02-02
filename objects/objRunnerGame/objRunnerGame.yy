@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "objRunnerGame",
     "eventList": [
-        
+        {
+            "id": "373d8958-d6e2-4786-95c7-254faabe4327",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 2,
+            "m_owner": "92da5528-dc42-454b-ad34-fbd365a4e81e"
+        },
+        {
+            "id": "e78bfe61-94ec-440b-a292-37a953fd55c4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "92da5528-dc42-454b-ad34-fbd365a4e81e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -50,6 +69,34 @@
             "value": "noone",
             "varName": "nextRoom",
             "varType": 5
+        },
+        {
+            "id": "27f3ea9d-c65f-4dcb-9d41-0dc9c2e815b2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "shake",
+            "varType": 3
+        },
+        {
+            "id": "9442ff4d-44ed-40bc-97c8-a4792b983e1c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "6",
+            "varName": "shakeMagnitude",
+            "varType": 0
         }
     ],
     "solid": false,
